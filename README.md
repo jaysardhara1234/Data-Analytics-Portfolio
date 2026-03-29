@@ -67,13 +67,30 @@ This repository showcases my projects where I apply data analysis, visualization
 
 ---
 
-## 📈 What I Learned
+🧰 Tools & Technologies
+Power BI
+Microsoft Excel
+DAX (Data Analysis Expressions)
+Data Modeling
+Data Visualization
+Each project folder contains:
 
-* 📊 Creating interactive dashboards in Power BI
-* 🔄 Data cleaning and transformation
-* 🧮 Writing DAX measures
-* 📉 Extracting meaningful insights from raw data
+---
 
+Dashboard file (.pbix / Excel)
+Dataset
+Project-specific README
+Dashboard preview image
+
+---
+
+🎯 Purpose
+This repository is created to showcase practical skills in:
+
+Data analysis
+Data visualization
+Dashboard design
+Insight generation
 
 ---
 
