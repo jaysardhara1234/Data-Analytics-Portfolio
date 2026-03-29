@@ -35,18 +35,6 @@ This project focuses on analyzing employee data to understand **attrition trends
 
 ---
 
-## 📸 Dashboard Preview
-
-### 🔹 Overview Dashboard
-
-![Dashboard Overview](HR Analytics/HR Dashboard Pg 1.png)
-
-### 🔹 Attrition Analysis
-
-![Attrition Dashboard](images/dashboard2.png)
-
----
-
 ## 📈 Key Insights
 
 * 🔴 High attrition in specific departments
