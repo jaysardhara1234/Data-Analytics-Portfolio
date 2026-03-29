@@ -53,20 +53,6 @@ This project focuses on analyzing employee data to understand **attrition trends
 
 ---
 
-## 📂 Project Files
-
-```
-HR-Analytics/
-│
-├── Hr Report.pbix
-├── README.md
-└── images/
-    ├── dashboard1.png
-    └── dashboard2.png
-```
-
----
-
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/jay-sardhara-a986b63a3/
