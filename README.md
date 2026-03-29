@@ -1,5 +1,3 @@
-# Data-Analytics-Portfolio
-
 # 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio! 🚀
