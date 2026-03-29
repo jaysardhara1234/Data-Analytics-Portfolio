@@ -55,7 +55,7 @@ This project focuses on analyzing employee data to understand **attrition trends
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/jay-sardhara-a986b63a3/
+* 💼 LinkedIn: https://www.linkedin.com/in/jay-sardhara-a986b63a3/
 ---
 
 ⭐ *If you like this project, give it a star!* ⭐
