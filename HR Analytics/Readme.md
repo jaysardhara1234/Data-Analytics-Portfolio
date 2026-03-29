@@ -39,7 +39,7 @@ This project focuses on analyzing employee data to understand **attrition trends
 
 ### 🔹 Overview Dashboard
 
-![Dashboard Overview](images/dashboard1.png)
+![Dashboard Overview](HR Analytics/HR Dashboard Pg 1.png)
 
 ### 🔹 Attrition Analysis
 
