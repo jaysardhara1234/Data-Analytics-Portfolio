@@ -23,8 +23,6 @@ This repository showcases my projects where I apply data analysis, visualization
 * Department-wise analysis
 * Attrition breakdown
 
-📁 File: `Hr Report.pbix`
-
 ---
 
 ### 2️⃣ 💰 Sales Analytics Report
@@ -43,8 +41,6 @@ This repository showcases my projects where I apply data analysis, visualization
 * KPI tracking
 * Region-wise performance
 
-📁 File: `Sales Report.pbix`
-
 ---
 
 ### 3️⃣ 🎓 Student Performance Report
@@ -62,8 +58,6 @@ This repository showcases my projects where I apply data analysis, visualization
 * Performance dashboards
 * Comparative analysis
 * Score distribution
-
-📁 File: `Student Performance Report.pbix`
 
 ---
 
