@@ -5,23 +5,6 @@ This repository showcases my projects where I apply data analysis, visualization
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎯 Aspiring Data Analyst
-* 📊 Skilled in Power BI, Data Visualization, and Data Analysis
-* 🧠 Interested in solving business problems using data
-
----
-
-## 🛠️ Tools & Technologies
-
-* 📊 **Power BI**
-* 📑 **Excel / CSV Data**
-* 🔄 **Power Query (Data Cleaning)**
-* 🧮 **DAX (Data Analysis Expressions)**
-
----
-
 ## 📂 Projects
 
 ### 1️⃣ 👥 HR Analytics Report
